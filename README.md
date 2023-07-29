@@ -60,3 +60,4 @@ tasks.
 • Model Evaluation: We encoded our true answers using one hot encoding, and mapped the
 answer types to a numeric list , and answerability was just inserted with no changes. in Trial 1
 low number of epochs(30) and no hypertuning and no regulization
+![image](https://github.com/mohab2000ayman/VQA/assets/77861617/dfff551a-607a-4b15-990b-9e5e0915ffe6)
